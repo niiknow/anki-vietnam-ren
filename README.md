@@ -1,2 +1,2 @@
-# anki-vietnamchese
-Learn Chinese as a Vietnamese with Anki
+# anki-vietnam-ren
+Learn Chinese Mandarin as a Vietnamese with Anki
